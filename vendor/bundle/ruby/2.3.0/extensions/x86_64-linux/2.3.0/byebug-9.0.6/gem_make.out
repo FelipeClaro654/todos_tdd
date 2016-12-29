@@ -1,0 +1,19 @@
+current directory: /home/felipe/rails_projects/tdd_lessons/todos_tdd/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+/home/felipe/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20161228-12910-1vx6en7.rb extconf.rb
+creating Makefile
+
+current directory: /home/felipe/rails_projects/tdd_lessons/todos_tdd/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/felipe/rails_projects/tdd_lessons/todos_tdd/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling byebug.c
+compiling threads.c
+compiling context.c
+compiling breakpoint.c
+compiling locker.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/felipe/rails_projects/tdd_lessons/todos_tdd/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20161228-12910-tvjt2m/byebug
